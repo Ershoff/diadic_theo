@@ -1,0 +1,7 @@
+*.pyc
+lib.*/
+bin.*/
+build.cmake*
+*~
+*.user
+build*
