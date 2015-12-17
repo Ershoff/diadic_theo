@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.27)  17 DEC 2015 15:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.27)  17 DEC 2015 15:42
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -354,7 +354,7 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)))
+))
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2013/12/03 3.9h The Babel package
 
@@ -567,7 +567,7 @@ File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+2423 (decimal 9251)
 ))
 Package babel Info: Making " an active character on input line 147.
-)) (./main.aux
+))) (./main.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
@@ -672,7 +672,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 8.
 Here is how much of TeX's memory you used:
  3509 strings out of 493304
  43345 string characters out of 6139871
- 104960 words of memory out of 5000000
+ 104972 words of memory out of 5000000
  6880 multiletter control sequences out of 15000+600000
  12160 words of font info for 33 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
