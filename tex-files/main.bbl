@@ -1,8 +1,59 @@
-\begin{thebibliography}{0}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{1}
+
+\bibitem{Ballester1994}
+P.~Ballester.
+\newblock Hough transform for robust regression and automated detection.
+\newblock {\em Astronomy and Astrophysics}, 286:1011--1018, 1994.
+
+\bibitem{Brady1998}
+M.~Brady.
+\newblock A fast discrete approximation algorithm for the {R}adon transform.
+\newblock {\em SIAM J. Computing}, 27(1), 1998.
+
+\bibitem{Fred2005}
+M.~Frederick, N.~VanderHorn, and A.~Somani.
+\newblock Real-time {H/W} implementation of the approximate discrete radon
+  transform.
+\newblock {\em IEEE International Conference on Application-Specific Systems,
+  Architecture Processors (ASAP'05)}, 2:399--404, 2005.
+
+\bibitem{Goldenshluger}
+A.~Goldenshluger and A.~Zeevi.
+\newblock The hough transform estimator.
+\newblock {\em The Annals of Statistics}, 32:1908–1932, 2004.
+
+\bibitem{Hart2009}
+P.~Hart.
+\newblock How the {H}ough transform was invented [{DSP} history].
+\newblock {\em Signal Processing Magazine IEEE}, 26(6):18--22, 2009.
+
+\bibitem{Hough1962patent}
+Paul~V.C. Hough. and Ann Arbor.
+\newblock Method and means for recognizing complex patterns, 12 1962.
+
+\bibitem{NiksKarp2008}
+D.~Nikolaev, S.~Karpenko, I.~Nikolaev, and P.~Nikolayev.
+\newblock Hough transform: underestimated tool in the computer vision field.
+\newblock {\em Proceedings of the 22th European Conference on Modelling and
+  Simulation}, pages 238--246, 2008.
+
+\bibitem{bezm2012rus}
+Безматерных П. Ханипов Т.М.~Николаев Д.П.
+\newblock Решение задачи линейной регрессии с
+  помощью быстрого преобразования Хафа.
+\newblock {\em Материалы 35-й конференции молодых
+  ученых и специалистов “Информационные
+  технологии и системы (ИТиС’12), стр. 354-359},
+  2012.
+
+\bibitem{NiksKarp2004rus}
+Николаев Д.П. Николаев П.П Постников В.~В.
+  Карпенко С.~М.
+\newblock Быстрое преобразование Хафа с
+  управляемой робастностью.
+\newblock {\em Искусственные интеллектуальные
+  системы и Интеллектуальные САПР. Труды
+  международной конференции IEEE AIS"04 и CAD-2004.
+  М.: Изд-во Физматлит, т. 2, стр. 303-309}, 2004.
 
 \end{thebibliography}
