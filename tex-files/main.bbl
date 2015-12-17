@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 
 \bibitem{Ballester1994}
 P.~Ballester.
@@ -36,11 +36,6 @@ D.~Nikolaev, S.~Karpenko, I.~Nikolaev, and P.~Nikolayev.
 \newblock Hough transform: underestimated tool in the computer vision field.
 \newblock {\em Proceedings of the 22th European Conference on Modelling and
   Simulation}, pages 238--246, 2008.
-
-\bibitem{Edholm1987}
-G.T.~Herman P.~Edholm.
-\newblock Linograms in image reconstruction from projections.
-\newblock {\em IEEE Trans. Medical Imaging}, MI-6(4):301--307, 1987.
 
 \bibitem{bezm2012rus}
 Безматерных П. Ханипов Т.М.~Николаев Д.П.
