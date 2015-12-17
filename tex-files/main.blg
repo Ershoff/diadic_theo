@@ -1,39 +1,79 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
 I found no \citation commands---while reading file main.aux
-I found no \bibdata command---while reading file main.aux
-I found no \bibstyle command---while reading file main.aux
+Database file #1: biblio.bib
+I was expecting a `,' or a `}'---line 13 of file biblio.bib
+ : 
+ : url = {http://www2.isye.gatech.edu/~nemirovs/Lect_EMCO.pdf}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 79 of file biblio.bib
+ :   
+ :   volume       = {2},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 134 of file biblio.bib
+ : 
+ : url = {http://www.princeton.edu/~sbubeck/SurveyBCB12.pdf }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 143 of file biblio.bib
+ : 
+ : year = {2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 250 of file biblio.bib
+ :     
+ :     volume      = {1},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 266 of file biblio.bib
+ :     
+ :     volume      = {XX №2},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 275 of file biblio.bib
+ :     
+ :     volume      = {3 №9},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 400 of file biblio.bib
+ :     
+ :     pages = {107-119}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 You've used 0 entries,
-            0 wiz_defined-function locations,
-            83 strings with 482 characters,
-and the built_in function-call counts, 0 in all, are:
+            2481 wiz_defined-function locations,
+            551 strings with 4418 characters,
+and the built_in function-call counts, 34 in all, are:
 = -- 0
 > -- 0
 < -- 0
 + -- 0
 - -- 0
-* -- 0
-:= -- 0
+* -- 2
+:= -- 11
 add.period$ -- 0
 call.type$ -- 0
 change.case$ -- 0
 chr.to.int$ -- 0
 cite$ -- 0
 duplicate$ -- 0
-empty$ -- 0
+empty$ -- 1
 format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 0
+newline$ -- 8
 num.names$ -- 0
 pop$ -- 0
-preamble$ -- 0
+preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 0
+skip$ -- 1
 stack$ -- 0
 substring$ -- 0
 swap$ -- 0
@@ -44,5 +84,5 @@ type$ -- 0
 warning$ -- 0
 while$ -- 0
 width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+write$ -- 7
+(There were 9 error messages)
