@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Ballester1994}
 P.~Ballester.
@@ -22,6 +22,12 @@ A.~Goldenshluger and A.~Zeevi.
 \newblock The hough transform estimator.
 \newblock {\em The Annals of Statistics}, 32:1908–1932, 2004.
 
+\bibitem{Gotz1995}
+H.~J.~Druckmüller Götz, W.~A.
+\newblock A fast digital radon transform—an efficient means for evaluating
+  the hough transform.
+\newblock {\em Pattern Recognition}, 28.12.
+
 \bibitem{Hart2009}
 P.~Hart.
 \newblock How the {H}ough transform was invented [{DSP} history].
@@ -30,6 +36,11 @@ P.~Hart.
 \bibitem{Hough1962patent}
 Paul~V.C. Hough. and Ann Arbor.
 \newblock Method and means for recognizing complex patterns, 12 1962.
+
+\bibitem{NiksKarp2004}
+S.~Karpenko, D.~Nikolaev, P.~Nikolayev, and V.~Postnikov.
+\newblock Fast {H}ough transform with controllable robustness (in {R}ussian).
+\newblock {\em In Proc. of IEEE AIS'04 and CAD-2004}, 2:303--309, 2004.
 
 \bibitem{NiksKarp2008}
 D.~Nikolaev, S.~Karpenko, I.~Nikolaev, and P.~Nikolayev.
